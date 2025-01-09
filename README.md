@@ -1,2 +1,2 @@
 # Presensi_RFID
- Laravel API
+ Website Presensi berbasis RFID menggunakan Laravel API untuk intregasi dan Notifikasi menggunakan Bot Tele
